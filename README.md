@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="Ramazan Allahverdizada Banner" width="100%">
 </p>
 
+<br>
+
 <div align="center">
 
 # Hi there , I'm Ramazan Allahverdizada
